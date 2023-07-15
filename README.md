@@ -1,4 +1,2 @@
-- Computer Science Student @ Georgia State University
-- Currently building proficiency in Java, Python, Javascript, and C++
-- Actively looking to contribute to open source projects
-- Passionate about technology, cryptography, fintech, and learning!
+- Computer Science student at Georgia Tech
+- Currently learning and building with Python, Typescript, Javascript, and Java
