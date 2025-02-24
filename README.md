@@ -1,6 +1,2 @@
-## Bio
-- US Navy Veteran
-- Currently a Junior at Georgia Institute of Technology studying BSCS with threads of Intelligence/Info-Networks
-- Classes I've Taken: Computer Architecture, Discrete Mathematics, Data Structures, Algorithms, Artificial Intelligence
-
-I'm personally interested in Backend Technologies, Distributed Systems, and AI/ML!
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ianwilson97&show_icons=true&hide_border=true&theme=transparent&count_private=true&card_width=500)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ianwilson97&layout=compact&hide_border=true&theme=transparent&card_width=500)
